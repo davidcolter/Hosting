@@ -1,0 +1,15 @@
+{
+	"version": "c85b7e6d-57e8-49fd-bcb4-ade136f21fe9",
+	"frequency": "1.0",
+	"cta": {
+		"title": "iPlayer Radio",
+		"message": "We'd like to hear about your experiences using iPlayer Radio. Do you have time to take a brief survey ? It will take about 5 minutes.",
+		"buttons": {
+			"accept": "Take survey",
+			"reject": "No thanks"
+		}
+	},
+	"survey": {
+		"url": "http://www.bbc.co.uk/news/uk-england-30904913/"
+	}
+}
